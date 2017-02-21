@@ -1,0 +1,11 @@
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\eXpatsScheduler.exe.config
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\eXpatsScheduler.exe
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\eXpatsScheduler.pdb
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\ClosedXML.dll
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\DocumentFormat.OpenXml.dll
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\MySql.Data.dll
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\ClosedXML.xml
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\bin\Debug\MySql.Data.xml
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\obj\Debug\eXpatsScheduler.exe
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\obj\Debug\eXpatsScheduler.pdb
+I:\Developments\MDEC\MOF\eXpats\eXpatsScheduler\eXpatsScheduler\obj\Debug\eXpatsScheduler.csprojResolveAssemblyReference.cache
